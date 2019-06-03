@@ -52,7 +52,7 @@ if __name__ == "__main__":
     import subprocess
     from orchid66 import printn, printc
 
-    printn('*running* *changy*!', ['orange', 'green']
+    printn('*running* *changy*!', ['orange', 'green'])
 
     if not os.path.isfile(FILE_NAME):
         raise Error(f"{FILE_NAME} file not found!")
