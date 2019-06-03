@@ -1,4 +1,5 @@
-# run tasks ON ANY FILE CHANGE DETECTION in a directory
+# changy!
+## run tasks when files change
 uses a .changy file
 
 run it using changy,
