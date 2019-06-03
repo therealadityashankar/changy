@@ -1,10 +1,16 @@
 # changy!
-## run tasks when files change
+run tasks when files change
+
+# usage
 uses a .changy file
 
-run it using changy,
+run it using the `changy` command,
 a minimum of 5 seconds of delay(by default) that is required between tasks
 for changy to detect there has been a file change
+
+# installation
+- clone this repository
+- alias changy to changy.py of this repo
 
 ## contents of .changy
 
